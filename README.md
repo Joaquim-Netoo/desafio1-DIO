@@ -1,4 +1,2 @@
-hello wolrd
-
-desafio proposto pelo felipão da DIO
+primeiro desafio proposto pelo felipão da DIO
 
