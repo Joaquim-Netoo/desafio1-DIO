@@ -1,5 +1,5 @@
 let nickname = "folkcobra"
-let Xp = 8294
+let Xp = 7000
 let lvl
 
 if(Xp < 1000 ){lvl = "ferro"}
